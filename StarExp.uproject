@@ -5,11 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		},
+		{
 			"Name": "GoogleVRController",
 			"Enabled": true
 		},
 		{
-			"Name": "GoogleVRHMD",
+			"Name": "SteamController",
 			"Enabled": true
 		}
 	]
