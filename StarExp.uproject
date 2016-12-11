@@ -5,21 +5,16 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "SteamController",
+			"Enabled": true
+		},
+		{
 			"Name": "GoogleVRHMD",
 			"Enabled": true
 		},
 		{
 			"Name": "GoogleVRController",
 			"Enabled": true
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
-		},
-		{
-			"Name": "KantanCharts",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/89bd18db011b4bd19606db2e31020f13"
 		}
 	]
 }
